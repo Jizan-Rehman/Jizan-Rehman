@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hello, I'm Jizan Rehman
 
 🎓 Electrical & Electronics Engineer | ⚙️ Embedded Systems Enthusiast  
