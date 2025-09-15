@@ -15,10 +15,10 @@
 ---
 
 ### 🧪 Recent Projects
-- 🔹 Controlling LED using RSP32 – Turn on/off LED using remote button
 - 🔹 GSM-based Environmental Monitoring System using ATmega32
+- 🔹 RFID-based Bus Ticketing System
 - 🔹 DC Motor Control with Arduino  
-- 🔹 RFID-based Bus Ticketing System  
+- 🔹 Controlling LED using ESP32 – Turn on/off LED using remote button 
 
   *(more coming soon...)*
 
